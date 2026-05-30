@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700,FFA500&height=200&section=header&text=sinagdevv&fontSize=60&fontColor=fff8e7&fontAlignY=38&desc=&descAlignY=58&animation=fadeIn&fontFamily=georgia" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=16&pause=1200&color=F5C842&center=true&vCenter=true&width=500&lines=Python+%C2%B7+Java+%C2%B7+Bash;AWS+%C2%B7+Azure+%C2%B7+Linux;Data+%C2%B7+Systems+%C2%B7+Design)](https://github.com/sinagdevv)
+
 
 </div>
 
