@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Sinag GitHub profile header</title>
+  <desc id="desc">A celestial manuscript inspired banner for Sinag, John Ray Cacananta, featuring a geometric sun, Roman numeral XIX, and software engineering identity.</desc>
+  <defs>
+    <radialGradient id="solarGlow" cx="50%" cy="44%" r="56%">
+      <stop offset="0" stop-color="#F6C453" stop-opacity="0.22"/>
+      <stop offset="0.42" stop-color="#F59E0B" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#16110A" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="lineFade" x1="0" x2="1">
+      <stop offset="0" stop-color="#B88932" stop-opacity="0"/>
+      <stop offset="0.18" stop-color="#B88932" stop-opacity="0.85"/>
+      <stop offset="0.82" stop-color="#B88932" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#B88932" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="360" fill="#16110A"/>
+  <rect width="1200" height="360" fill="url(#solarGlow)"/>
+  <rect x="18" y="18" width="1164" height="324" rx="4" fill="none" stroke="#B88932" stroke-width="1.4"/>
+  <rect x="26" y="26" width="1148" height="308" rx="3" fill="none" stroke="#3A2415" stroke-width="1"/>
+
+  <!-- manuscript corners -->
+  <g fill="none" stroke="#B88932" stroke-width="1.25" opacity="0.9">
+    <path d="M42 86V42h44M42 60l18-18M60 42v18H42"/>
+    <path d="M1114 42h44v44M1158 60l-18-18M1140 42v18h18"/>
+    <path d="M42 274v44h44M42 300l18 18M60 318v-18H42"/>
+    <path d="M1114 318h44v-44M1158 300l-18 18M1140 318v-18h18"/>
+  </g>
+
+  <!-- celestial field -->
+  <g fill="#FFD65A" opacity="0.9">
+    <circle cx="109" cy="101" r="2"/><circle cx="164" cy="66" r="1.5"/><circle cx="226" cy="119" r="1.3"/>
+    <circle cx="1002" cy="96" r="1.6"/><circle cx="1062" cy="130" r="2"/><circle cx="1100" cy="72" r="1.3"/>
+    <circle cx="94" cy="247" r="1.5"/><circle cx="174" cy="294" r="1.8"/><circle cx="1054" cy="265" r="1.6"/>
+  </g>
+  <g stroke="#B88932" stroke-width="1" opacity="0.7">
+    <path d="M112 170h-12m6-6v12M1082 188h-12m6-6v12M197 254h-10m5-5v10M1018 236h-10m5-5v10"/>
+  </g>
+
+  <!-- solar emblem -->
+  <g transform="translate(600 104)" fill="none" stroke-linecap="round">
+    <circle r="61" stroke="#3A2415" stroke-width="18" opacity="0.55"/>
+    <circle r="50" stroke="#B88932" stroke-width="1.2"/>
+    <circle r="42" stroke="#FFD65A" stroke-width="1.4"/>
+    <circle r="24" fill="#F6C453" fill-opacity="0.10" stroke="#F6C453" stroke-width="1.5"/>
+    <circle r="7" fill="#FFD65A" stroke="#FFD65A"/>
+    <g stroke="#F6C453" stroke-width="2">
+      <path d="M0-78V-57M0 78V57M78 0H57M-78 0H-57"/>
+      <path d="M55-55L40-40M55 55L40 40M-55 55L-40 40M-55-55L-40-40"/>
+    </g>
+    <g stroke="#B88932" stroke-width="1.2">
+      <path d="M25-70L18-52M70-25L52-18M70 25L52 18M25 70L18 52M-25 70L-18 52M-70 25L-52 18M-70-25L-52-18M-25-70L-18-52"/>
+    </g>
+    <circle r="68" stroke="#B88932" stroke-dasharray="2 8" opacity="0.55"/>
+  </g>
+
+  <!-- side astronomy diagrams -->
+  <g fill="none" stroke="#3A2415" stroke-width="1" opacity="0.9">
+    <circle cx="320" cy="104" r="44"/><circle cx="320" cy="104" r="30"/><path d="M270 104h100M320 54v100"/>
+    <circle cx="880" cy="104" r="44"/><circle cx="880" cy="104" r="30"/><path d="M830 104h100M880 54v100"/>
+  </g>
+  <g fill="#B88932" opacity="0.8">
+    <circle cx="350" cy="104" r="3"/><circle cx="850" cy="104" r="3"/>
+  </g>
+
+  <!-- title system -->
+  <text x="600" y="40" text-anchor="middle" fill="#B88932" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="5">ARCANA XIX • THE SUN</text>
+  <line x1="360" y1="164" x2="840" y2="164" stroke="url(#lineFade)" stroke-width="1"/>
+  <text x="600" y="222" text-anchor="middle" fill="#FFD65A" font-family="Georgia, 'Times New Roman', serif" font-size="66" font-weight="700" letter-spacing="15">SINAG</text>
+  <text x="600" y="254" text-anchor="middle" fill="#F6E7C1" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="5">JOHN RAY CACANANTA</text>
+  <text x="600" y="283" text-anchor="middle" fill="#D9B96F" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="3.2">SOFTWARE • AI • BACKEND SYSTEMS • AUTOMATION</text>
+  <text x="600" y="313" text-anchor="middle" fill="#B88932" font-family="Georgia, 'Times New Roman', serif" font-size="13" font-style="italic" letter-spacing="1.2">/si·nag/ • ray of light • @sinagdevv</text>
+</svg>

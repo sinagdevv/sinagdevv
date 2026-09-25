@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
+  <title id="title">Sinag profile footer</title>
+  <desc id="desc">A compact celestial footer with a geometric sun, the Sinag name, and the words build, learn, create.</desc>
+  <rect width="1200" height="150" fill="#16110A"/>
+  <line x1="150" y1="28" x2="1050" y2="28" stroke="#3A2415" stroke-width="1"/>
+  <g transform="translate(600 45)" fill="none" stroke="#FFD65A" stroke-linecap="round">
+    <circle r="11" stroke-width="1.4"/>
+    <circle r="4" fill="#FFD65A"/>
+    <path d="M0-22v6M0 22v-6M22 0h-6M-22 0h6M15-15l-4 4M15 15l-4-4M-15 15l4-4M-15-15l4 4" stroke-width="1.3"/>
+  </g>
+  <g fill="#B88932">
+    <path d="M542 45l3-3 3 3-3 3z"/><path d="M652 45l3-3 3 3-3 3z"/>
+  </g>
+  <text x="600" y="88" text-anchor="middle" fill="#FFD65A" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="700" letter-spacing="7">SINAG</text>
+  <text x="600" y="112" text-anchor="middle" fill="#D9B96F" font-family="Arial, Helvetica, sans-serif" font-size="10.5" letter-spacing="4">BUILD • LEARN • CREATE</text>
+  <text x="600" y="133" text-anchor="middle" fill="#B88932" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2.4">@sinagdevv • XIX</text>
+</svg>
