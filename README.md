@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Software Developer · Backend Engineering · AI Systems · Automation · Cloud</strong>
+  <strong>Software Developer · Backend Engineering · AI Systems · Automation </strong>
 </p>
 
 <p align="center">
