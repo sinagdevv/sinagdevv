@@ -24,7 +24,7 @@
   <img src="./assets/sun-divider.svg" width="100%" alt="Decorative solar divider" />
 </p>
 
-## ☼ Technology Stack
+## Technology Stack
 
 <sub>Tools I have worked with, studied, or am actively exploring.</sub>
 
