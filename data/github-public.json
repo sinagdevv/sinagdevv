@@ -1,0 +1,226 @@
+{
+  "status": "ok",
+  "username": "sinagdevv",
+  "syncedAt": "2026-11-06T15:44:41.490Z",
+  "publicRepositoryCount": 108,
+  "repositories": [
+    {
+      "name": "KERNEL-ZERO",
+      "description": "",
+      "url": "https://github.com/sinagdevv/KERNEL-ZERO",
+      "updatedAt": "2026-11-06T14:52:13Z",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "ABOT",
+      "description": "",
+      "url": "https://github.com/sinagdevv/ABOT",
+      "updatedAt": "2026-11-06T07:53:49Z",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "Credit-Card-Fraud-Detection",
+      "description": "",
+      "url": "https://github.com/sinagdevv/Credit-Card-Fraud-Detection",
+      "updatedAt": "2026-11-03T15:52:49Z",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "K-RION",
+      "description": "",
+      "url": "https://github.com/sinagdevv/K-RION",
+      "updatedAt": "2026-10-31T08:50:02Z",
+      "language": null,
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "sinagdevv",
+      "description": "",
+      "url": "https://github.com/sinagdevv/sinagdevv",
+      "updatedAt": "2026-10-28T14:34:34Z",
+      "language": null,
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "flyrank-ml-internship-sinagdev",
+      "description": "Machine learning experiments, reproducible pipelines, and applied ML projects completed during the FlyRank AI Internship",
+      "url": "https://github.com/sinagdevv/flyrank-ml-internship-sinagdev",
+      "updatedAt": "2026-10-26T01:52:37Z",
+      "language": "Jupyter Notebook",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "bulldogs-xchange",
+      "description": "Official merchandise reservation, inventory, queue, and transaction management system for National University Fairview.",
+      "url": "https://github.com/sinagdevv/bulldogs-xchange",
+      "updatedAt": "2026-10-19T08:50:40Z",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "flowguardai",
+      "description": "",
+      "url": "https://github.com/sinagdevv/flowguardai",
+      "updatedAt": "2026-10-02T06:33:24Z",
+      "language": null,
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "Lego-Shop-",
+      "description": "USERDES Activity ",
+      "url": "https://github.com/sinagdevv/Lego-Shop-",
+      "updatedAt": "2026-09-17T19:25:30Z",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "DEVCON-Kids-Hub-2.0",
+      "description": "",
+      "url": "https://github.com/sinagdevv/DEVCON-Kids-Hub-2.0",
+      "updatedAt": "2026-09-08T23:39:30Z",
+      "language": null,
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "cacananta_barangayAI",
+      "description": "",
+      "url": "https://github.com/sinagdevv/cacananta_barangayAI",
+      "updatedAt": "2026-08-27T09:59:38Z",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "Bank-Account-Simulator",
+      "description": "LearnDepth Track 1 Internship – Project Submission",
+      "url": "https://github.com/sinagdevv/Bank-Account-Simulator",
+      "updatedAt": "2026-08-20T11:22:17Z",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "flyrank-ml-internship-Sinag",
+      "description": "Flyrank Internship Machine Learning Cohort",
+      "url": "https://github.com/sinagdevv/flyrank-ml-internship-Sinag",
+      "updatedAt": "2026-08-14T12:30:33Z",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "Task-3-John-Ray-Cacananta",
+      "description": "DecodeLabs Data Science Cohort Task 3",
+      "url": "https://github.com/sinagdevv/Task-3-John-Ray-Cacananta",
+      "updatedAt": "2026-08-11T05:11:59Z",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "Task-2-John-Ray-Cacananta",
+      "description": "DecodeLabs Data Science Cohort Task 2",
+      "url": "https://github.com/sinagdevv/Task-2-John-Ray-Cacananta",
+      "updatedAt": "2026-08-11T05:11:29Z",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "Task-1-John-Ray-Cacananta",
+      "description": "DecodeLabs Data Science Cohort Task 1",
+      "url": "https://github.com/sinagdevv/Task-1-John-Ray-Cacananta",
+      "updatedAt": "2026-08-11T05:11:04Z",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "azurelinux",
+      "description": "General purpose Linux OS for Azure",
+      "url": "https://github.com/sinagdevv/azurelinux",
+      "updatedAt": "2026-08-10T10:06:34Z",
+      "language": null,
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "Image-Classifier---AWS-Nanodegree-Project",
+      "description": "",
+      "url": "https://github.com/sinagdevv/Image-Classifier---AWS-Nanodegree-Project",
+      "updatedAt": "2026-08-05T15:47:01Z",
+      "language": null,
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "AI-Invoice-Automation",
+      "description": "",
+      "url": "https://github.com/sinagdevv/AI-Invoice-Automation",
+      "updatedAt": "2026-08-04T14:34:49Z",
+      "language": null,
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "Pass-Type-Management-System",
+      "description": "",
+      "url": "https://github.com/sinagdevv/Pass-Type-Management-System",
+      "updatedAt": "2026-08-03T13:59:16Z",
+      "language": null,
+      "stars": 0,
+      "forks": 0
+    }
+  ],
+  "languages": [
+    {
+      "name": "Python",
+      "repositories": 18,
+      "percent": 41
+    },
+    {
+      "name": "Java",
+      "repositories": 9,
+      "percent": 20
+    },
+    {
+      "name": "Jupyter Notebook",
+      "repositories": 8,
+      "percent": 18
+    },
+    {
+      "name": "HTML",
+      "repositories": 4,
+      "percent": 9
+    },
+    {
+      "name": "TypeScript",
+      "repositories": 3,
+      "percent": 7
+    },
+    {
+      "name": "CSS",
+      "repositories": 1,
+      "percent": 2
+    },
+    {
+      "name": "JavaScript",
+      "repositories": 1,
+      "percent": 2
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,12 @@
+{
+  "name": "sinag-profile-sync",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync:profile": "node scripts/sync-profile.mjs",
+    "test:sync": "node --test scripts/sync-profile.test.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
