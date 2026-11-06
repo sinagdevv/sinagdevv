@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 600" role="img" aria-labelledby="title desc">
+  <title id="title">SINAG solar observatory</title>
+  <desc id="desc">A warm gold solar core with orbital rings and precision telemetry around the SINAG wordmark.</desc>
+  <defs>
+    <radialGradient id="field" cx="70%" cy="48%"><stop offset="0" stop-color="#2a2116"/><stop offset=".4" stop-color="#111216"/><stop offset="1" stop-color="#090a0c"/></radialGradient>
+    <radialGradient id="sun"><stop offset="0" stop-color="#ffe6a0"/><stop offset=".35" stop-color="#ffbf47"/><stop offset=".72" stop-color="#d67c24"/><stop offset="1" stop-color="#60250c"/></radialGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="18"/></filter>
+    <style>.mono{font:12px 'SFMono-Regular',Consolas,monospace;letter-spacing:3px}.fine{fill:#96918a;font:10px 'SFMono-Regular',Consolas,monospace;letter-spacing:2px}.line{fill:none;stroke:#d6a443;stroke-opacity:.34}.gold{fill:#d6a443}.light{fill:#f4f0e8}</style>
+  </defs>
+  <rect width="1600" height="600" fill="url(#field)"/>
+  <g opacity=".6" fill="#ffe6a0"><circle cx="1310" cy="94" r="1.2"/><circle cx="1190" cy="180" r="1"/><circle cx="1436" cy="375" r="1.4"/><circle cx="1044" cy="428" r="1"/><circle cx="1550" cy="510" r=".9"/></g>
+  <g transform="translate(1215 300) rotate(-18)">
+    <ellipse rx="240" ry="74" class="line"/><ellipse rx="240" ry="74" class="line" transform="rotate(60)"/><ellipse rx="240" ry="74" class="line" transform="rotate(120)"/>
+    <circle r="176" class="line" stroke-dasharray="2 12"/>
+    <circle r="118" fill="#ffbf47" opacity=".12" filter="url(#glow)"/><circle r="88" fill="url(#sun)"/>
+    <path d="M-75-32c32-58 87-53 123-20-36 17-83 33-123 20Zm39 54c35-22 81-13 103 12-42 28-83 19-103-12Z" fill="#fff0b5" opacity=".28"/>
+    <circle cx="240" r="5" fill="#ffe6a0"/><circle cx="-120" cy="-207" r="5" fill="#ffbf47"/>
+  </g>
+  <g transform="translate(95 118)">
+    <text x="0" y="0" class="mono gold">SINAG / 001</text><text x="0" y="92" class="light" style="font:italic 122px Georgia,serif;letter-spacing:-8px">SINAG</text>
+    <text x="8" y="142" class="mono light">JOHN RAY CACANANTA</text><text x="8" y="180" class="fine">FULL-STACK DEVELOPER  ·  AI SECURITY  ·  CLOUD &amp; AUTOMATION</text>
+    <line x1="8" y1="228" x2="500" y2="228" stroke="#383129"/><text x="8" y="260" class="fine">RAY OF LIGHT / SYSTEMS WITH INTENT</text>
+  </g>
+  <g class="fine"><text x="1080" y="64">SOLAR OBSERVATORY</text><text x="1412" y="540">03° 41′ N / 073° 02′ E</text><text x="78" y="548">SIGNAL / PUBLIC ENGINEERING WORK</text></g>
+</svg>

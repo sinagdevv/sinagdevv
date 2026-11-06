@@ -1,0 +1,6 @@
+node_modules/
+.temp/
+site/node_modules/
+site/.next/
+site/.temp/
+*.tsbuildinfo
