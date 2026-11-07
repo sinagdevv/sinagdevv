@@ -1,23 +1,32 @@
 {
   "status": "ok",
   "username": "sinagdevv",
-  "syncedAt": "2026-11-06T15:44:41.490Z",
+  "syncedAt": "2026-11-07T11:09:18.942Z",
   "publicRepositoryCount": 108,
   "repositories": [
     {
-      "name": "KERNEL-ZERO",
+      "name": "ABOT",
       "description": "",
-      "url": "https://github.com/sinagdevv/KERNEL-ZERO",
-      "updatedAt": "2026-11-06T14:52:13Z",
+      "url": "https://github.com/sinagdevv/ABOT",
+      "updatedAt": "2026-11-07T02:40:32Z",
       "language": "TypeScript",
       "stars": 0,
       "forks": 0
     },
     {
-      "name": "ABOT",
+      "name": "sinagdevv",
       "description": "",
-      "url": "https://github.com/sinagdevv/ABOT",
-      "updatedAt": "2026-11-06T07:53:49Z",
+      "url": "https://github.com/sinagdevv/sinagdevv",
+      "updatedAt": "2026-11-06T15:56:09Z",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "KERNEL-ZERO",
+      "description": "",
+      "url": "https://github.com/sinagdevv/KERNEL-ZERO",
+      "updatedAt": "2026-11-06T14:52:13Z",
       "language": "TypeScript",
       "stars": 0,
       "forks": 0
@@ -29,22 +38,13 @@
       "updatedAt": "2026-11-03T15:52:49Z",
       "language": "Python",
       "stars": 0,
-      "forks": 0
+      "forks": 1
     },
     {
       "name": "K-RION",
       "description": "",
       "url": "https://github.com/sinagdevv/K-RION",
       "updatedAt": "2026-10-31T08:50:02Z",
-      "language": null,
-      "stars": 0,
-      "forks": 0
-    },
-    {
-      "name": "sinagdevv",
-      "description": "",
-      "url": "https://github.com/sinagdevv/sinagdevv",
-      "updatedAt": "2026-10-28T14:34:34Z",
       "language": null,
       "stars": 0,
       "forks": 0
@@ -189,7 +189,7 @@
     {
       "name": "Python",
       "repositories": 18,
-      "percent": 41
+      "percent": 40
     },
     {
       "name": "Java",
@@ -208,8 +208,8 @@
     },
     {
       "name": "TypeScript",
-      "repositories": 3,
-      "percent": 7
+      "repositories": 4,
+      "percent": 9
     },
     {
       "name": "CSS",
