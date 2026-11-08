@@ -1,14 +1,23 @@
 {
   "status": "ok",
   "username": "sinagdevv",
-  "syncedAt": "2026-11-07T11:09:18.942Z",
+  "syncedAt": "2026-11-08T11:21:49.391Z",
   "publicRepositoryCount": 108,
   "repositories": [
+    {
+      "name": "Credit-Card-Fraud-Detection",
+      "description": "",
+      "url": "https://github.com/sinagdevv/Credit-Card-Fraud-Detection",
+      "updatedAt": "2026-11-08T06:07:29Z",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0
+    },
     {
       "name": "ABOT",
       "description": "",
       "url": "https://github.com/sinagdevv/ABOT",
-      "updatedAt": "2026-11-07T02:40:32Z",
+      "updatedAt": "2026-11-07T15:14:26Z",
       "language": "TypeScript",
       "stars": 0,
       "forks": 0
@@ -17,7 +26,7 @@
       "name": "sinagdevv",
       "description": "",
       "url": "https://github.com/sinagdevv/sinagdevv",
-      "updatedAt": "2026-11-06T15:56:09Z",
+      "updatedAt": "2026-11-07T11:09:19Z",
       "language": "TypeScript",
       "stars": 0,
       "forks": 0
@@ -30,15 +39,6 @@
       "language": "TypeScript",
       "stars": 0,
       "forks": 0
-    },
-    {
-      "name": "Credit-Card-Fraud-Detection",
-      "description": "",
-      "url": "https://github.com/sinagdevv/Credit-Card-Fraud-Detection",
-      "updatedAt": "2026-11-03T15:52:49Z",
-      "language": "Python",
-      "stars": 0,
-      "forks": 1
     },
     {
       "name": "K-RION",
