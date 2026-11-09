@@ -51,22 +51,3 @@
 
 `Rust-native AI security tooling` · `MCP authorization and runtime controls` · `Secure RAG and tenant isolation` · `AI agent observability` · `Local-first intelligent systems` · `Cloud automation and infrastructure`
 
-## ABOUT // 002
-
-I’m a second-year B.S. Information Technology student at National University - Fairview, currently working as an AI Automation Engineer Intern at AgentGenius.ai / KeywordGenius and a Data Innovation Track Intern at Eskwelabs. I like turning open-ended engineering questions into practical systems through hackathons, technical communities, and deliberate execution.
-
-## SELECTED SYSTEMS // 003
-
-### C.A.G.E. · causal authorization and governance engine
-
-AI-agent security research focused on policy enforcement, authorization decisions, causal reasoning, and MCP security testing. [Public showcase](https://cage-agent-security.vercel.app/)
-
-### DEVCON Kids Hub 2.0 · operations and retrieval
-
-Centralized volunteer operations, approvals, reporting, and AI-assisted knowledge retrieval. [Repository](https://github.com/Debb1ie/DEVCON-Kids-Hub-2.0) · [Live system](https://devcon-kids-hub-2-0.vercel.app/)
-
-### Bulldogs Xchange · campus marketplace
-
-Reservations, inventory, authentication, administrative workflows, and AI assistance in one campus workflow. [Repository](https://github.com/sinagdevv/bulldogs-xchange) · [Live demo](https://bulldogs-xchange-live-demo.vercel.app/)
-
-<p align="center"><sub>SINAG /si·nag/ · a ray of light</sub></p>
