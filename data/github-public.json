@@ -1,9 +1,27 @@
 {
   "status": "ok",
   "username": "sinagdevv",
-  "syncedAt": "2026-11-08T11:21:49.391Z",
-  "publicRepositoryCount": 108,
+  "syncedAt": "2026-11-09T12:59:06.188Z",
+  "publicRepositoryCount": 109,
   "repositories": [
+    {
+      "name": "sinagdevv",
+      "description": "",
+      "url": "https://github.com/sinagdevv/sinagdevv",
+      "updatedAt": "2026-11-09T11:31:44Z",
+      "language": "PowerShell",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "sample-3",
+      "description": "",
+      "url": "https://github.com/sinagdevv/sample-3",
+      "updatedAt": "2026-11-09T06:17:52Z",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0
+    },
     {
       "name": "Credit-Card-Fraud-Detection",
       "description": "",
@@ -18,15 +36,6 @@
       "description": "",
       "url": "https://github.com/sinagdevv/ABOT",
       "updatedAt": "2026-11-07T15:14:26Z",
-      "language": "TypeScript",
-      "stars": 0,
-      "forks": 0
-    },
-    {
-      "name": "sinagdevv",
-      "description": "",
-      "url": "https://github.com/sinagdevv/sinagdevv",
-      "updatedAt": "2026-11-07T11:09:19Z",
       "language": "TypeScript",
       "stars": 0,
       "forks": 0
@@ -174,22 +183,13 @@
       "language": null,
       "stars": 0,
       "forks": 0
-    },
-    {
-      "name": "Pass-Type-Management-System",
-      "description": "",
-      "url": "https://github.com/sinagdevv/Pass-Type-Management-System",
-      "updatedAt": "2026-08-03T13:59:16Z",
-      "language": null,
-      "stars": 0,
-      "forks": 0
     }
   ],
   "languages": [
     {
       "name": "Python",
       "repositories": 18,
-      "percent": 40
+      "percent": 39
     },
     {
       "name": "Java",
@@ -199,17 +199,17 @@
     {
       "name": "Jupyter Notebook",
       "repositories": 8,
-      "percent": 18
+      "percent": 17
     },
     {
       "name": "HTML",
-      "repositories": 4,
-      "percent": 9
+      "repositories": 5,
+      "percent": 11
     },
     {
       "name": "TypeScript",
-      "repositories": 4,
-      "percent": 9
+      "repositories": 3,
+      "percent": 7
     },
     {
       "name": "CSS",
@@ -218,6 +218,11 @@
     },
     {
       "name": "JavaScript",
+      "repositories": 1,
+      "percent": 2
+    },
+    {
+      "name": "PowerShell",
       "repositories": 1,
       "percent": 2
     }
