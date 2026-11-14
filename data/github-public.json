@@ -1,15 +1,24 @@
 {
   "status": "ok",
   "username": "sinagdevv",
-  "syncedAt": "2026-11-13T12:19:40.148Z",
+  "syncedAt": "2026-11-14T11:35:20.325Z",
   "publicRepositoryCount": 111,
   "repositories": [
+    {
+      "name": "KERNEL-ZERO",
+      "description": "",
+      "url": "https://github.com/sinagdevv/KERNEL-ZERO",
+      "updatedAt": "2026-11-14T09:56:28Z",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0
+    },
     {
       "name": "Supernobai-NASA",
       "description": "",
       "url": "https://github.com/sinagdevv/Supernobai-NASA",
-      "updatedAt": "2026-11-13T11:50:10Z",
-      "language": null,
+      "updatedAt": "2026-11-14T07:24:23Z",
+      "language": "TypeScript",
       "stars": 0,
       "forks": 0
     },
@@ -17,7 +26,7 @@
       "name": "sinagdevv",
       "description": "",
       "url": "https://github.com/sinagdevv/sinagdevv",
-      "updatedAt": "2026-11-12T12:52:13Z",
+      "updatedAt": "2026-11-13T12:19:41Z",
       "language": "PowerShell",
       "stars": 0,
       "forks": 0
@@ -54,15 +63,6 @@
       "description": "",
       "url": "https://github.com/sinagdevv/ABOT",
       "updatedAt": "2026-11-07T15:14:26Z",
-      "language": "TypeScript",
-      "stars": 0,
-      "forks": 0
-    },
-    {
-      "name": "KERNEL-ZERO",
-      "description": "",
-      "url": "https://github.com/sinagdevv/KERNEL-ZERO",
-      "updatedAt": "2026-11-06T14:52:13Z",
       "language": "TypeScript",
       "stars": 0,
       "forks": 0
@@ -208,8 +208,8 @@
     },
     {
       "name": "TypeScript",
-      "repositories": 3,
-      "percent": 6
+      "repositories": 4,
+      "percent": 8
     },
     {
       "name": "CSS",
