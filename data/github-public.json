@@ -1,24 +1,15 @@
 {
   "status": "ok",
   "username": "sinagdevv",
-  "syncedAt": "2026-11-14T11:35:20.325Z",
+  "syncedAt": "2026-11-15T12:00:27.751Z",
   "publicRepositoryCount": 111,
   "repositories": [
-    {
-      "name": "KERNEL-ZERO",
-      "description": "",
-      "url": "https://github.com/sinagdevv/KERNEL-ZERO",
-      "updatedAt": "2026-11-14T09:56:28Z",
-      "language": "TypeScript",
-      "stars": 0,
-      "forks": 0
-    },
     {
       "name": "Supernobai-NASA",
       "description": "",
       "url": "https://github.com/sinagdevv/Supernobai-NASA",
-      "updatedAt": "2026-11-14T07:24:23Z",
-      "language": "TypeScript",
+      "updatedAt": "2026-11-15T09:29:21Z",
+      "language": "Python",
       "stars": 0,
       "forks": 0
     },
@@ -26,8 +17,17 @@
       "name": "sinagdevv",
       "description": "",
       "url": "https://github.com/sinagdevv/sinagdevv",
-      "updatedAt": "2026-11-13T12:19:41Z",
+      "updatedAt": "2026-11-14T11:35:21Z",
       "language": "PowerShell",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "KERNEL-ZERO",
+      "description": "",
+      "url": "https://github.com/sinagdevv/KERNEL-ZERO",
+      "updatedAt": "2026-11-14T09:56:28Z",
+      "language": "TypeScript",
       "stars": 0,
       "forks": 0
     },
@@ -188,8 +188,8 @@
   "languages": [
     {
       "name": "Python",
-      "repositories": 18,
-      "percent": 38
+      "repositories": 19,
+      "percent": 40
     },
     {
       "name": "Java",
@@ -208,8 +208,8 @@
     },
     {
       "name": "TypeScript",
-      "repositories": 4,
-      "percent": 8
+      "repositories": 3,
+      "percent": 6
     },
     {
       "name": "CSS",
