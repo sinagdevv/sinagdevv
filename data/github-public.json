@@ -1,24 +1,33 @@
 {
   "status": "ok",
   "username": "sinagdevv",
-  "syncedAt": "2026-11-15T12:00:27.751Z",
+  "syncedAt": "2026-11-16T12:52:28.526Z",
   "publicRepositoryCount": 111,
   "repositories": [
     {
-      "name": "Supernobai-NASA",
+      "name": "Credit-Card-Fraud-Detection",
       "description": "",
-      "url": "https://github.com/sinagdevv/Supernobai-NASA",
-      "updatedAt": "2026-11-15T09:29:21Z",
-      "language": "Python",
+      "url": "https://github.com/sinagdevv/Credit-Card-Fraud-Detection",
+      "updatedAt": "2026-11-16T06:06:05Z",
+      "language": "Jupyter Notebook",
       "stars": 0,
-      "forks": 0
+      "forks": 1
     },
     {
       "name": "sinagdevv",
       "description": "",
       "url": "https://github.com/sinagdevv/sinagdevv",
-      "updatedAt": "2026-11-14T11:35:21Z",
+      "updatedAt": "2026-11-15T12:00:28Z",
       "language": "PowerShell",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "TERRAWINDOW---NASA",
+      "description": "",
+      "url": "https://github.com/sinagdevv/TERRAWINDOW---NASA",
+      "updatedAt": "2026-11-15T09:29:21Z",
+      "language": "Python",
       "stars": 0,
       "forks": 0
     },
@@ -46,15 +55,6 @@
       "url": "https://github.com/sinagdevv/sample-3",
       "updatedAt": "2026-11-09T06:17:52Z",
       "language": "HTML",
-      "stars": 0,
-      "forks": 0
-    },
-    {
-      "name": "Credit-Card-Fraud-Detection",
-      "description": "",
-      "url": "https://github.com/sinagdevv/Credit-Card-Fraud-Detection",
-      "updatedAt": "2026-11-08T06:07:29Z",
-      "language": "Python",
       "stars": 0,
       "forks": 0
     },
@@ -188,8 +188,8 @@
   "languages": [
     {
       "name": "Python",
-      "repositories": 19,
-      "percent": 40
+      "repositories": 18,
+      "percent": 38
     },
     {
       "name": "Java",
@@ -198,8 +198,8 @@
     },
     {
       "name": "Jupyter Notebook",
-      "repositories": 8,
-      "percent": 17
+      "repositories": 9,
+      "percent": 19
     },
     {
       "name": "HTML",
