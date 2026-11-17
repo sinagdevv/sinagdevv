@@ -1,9 +1,27 @@
 {
   "status": "ok",
   "username": "sinagdevv",
-  "syncedAt": "2026-11-16T12:52:28.526Z",
-  "publicRepositoryCount": 111,
+  "syncedAt": "2026-11-17T13:35:16.501Z",
+  "publicRepositoryCount": 112,
   "repositories": [
+    {
+      "name": "costing-sinagdev",
+      "description": "",
+      "url": "https://github.com/sinagdevv/costing-sinagdev",
+      "updatedAt": "2026-11-17T04:21:19Z",
+      "language": null,
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "sinagdevv",
+      "description": "",
+      "url": "https://github.com/sinagdevv/sinagdevv",
+      "updatedAt": "2026-11-17T02:38:36Z",
+      "language": "PowerShell",
+      "stars": 0,
+      "forks": 0
+    },
     {
       "name": "Credit-Card-Fraud-Detection",
       "description": "",
@@ -12,15 +30,6 @@
       "language": "Jupyter Notebook",
       "stars": 0,
       "forks": 1
-    },
-    {
-      "name": "sinagdevv",
-      "description": "",
-      "url": "https://github.com/sinagdevv/sinagdevv",
-      "updatedAt": "2026-11-15T12:00:28Z",
-      "language": "PowerShell",
-      "stars": 0,
-      "forks": 0
     },
     {
       "name": "TERRAWINDOW---NASA",
@@ -172,15 +181,6 @@
       "url": "https://github.com/sinagdevv/Task-1-John-Ray-Cacananta",
       "updatedAt": "2026-08-11T05:11:04Z",
       "language": "Python",
-      "stars": 0,
-      "forks": 0
-    },
-    {
-      "name": "azurelinux",
-      "description": "General purpose Linux OS for Azure",
-      "url": "https://github.com/sinagdevv/azurelinux",
-      "updatedAt": "2026-08-10T10:06:34Z",
-      "language": null,
       "stars": 0,
       "forks": 0
     }
