@@ -55,34 +55,3 @@
 <p align="center"><strong><code>AUTOMATION</code></strong><br /><code>n8n</code>&nbsp; <code>POWER AUTOMATE</code>&nbsp; <code>API INTEGRATION</code></p>
 <p align="center"><strong><code>AI SECURITY</code></strong><br /><code>MCP</code>&nbsp; <code>RAG</code>&nbsp; <code>AUTHORIZATION</code>&nbsp; <code>OPA</code>&nbsp; <code>REGO</code>&nbsp; <code>AGENT GOVERNANCE</code></p>
 
-## AREAS OF INTEREST // 001
-
-<p align="center">
-  <img src="./assets/research-network.gif" width="900" alt="Animated amber research network connecting ten SINAG areas of interest" />
-</p>
-
-## CURRENTLY EXPLORING // ACTIVE
-
-<p align="center">
-  <img src="./assets/research-terminal.gif" width="820" alt="Animated SINAG research terminal cycling through active engineering topics" />
-</p>
-
-## ABOUT // 002
-
-Second-year B.S. Information Technology student at National University - Fairview, working as an AI Automation Engineer Intern at AgentGenius.ai / KeywordGenius and a Data Innovation Track Intern at Eskwelabs. I build practical systems through hackathons, technical communities, and deliberate execution.
-
-## SELECTED SYSTEMS // 003
-
-### C.A.G.E. · causal authorization and governance engine
-
-AI-agent security research focused on policy enforcement, authorization decisions, causal reasoning, and MCP security testing. <a href="https://cage-agent-security.vercel.app/"><img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="14" alt="Vercel" /> Showcase</a>
-
-### DEVCON Kids Hub 2.0 · operations and retrieval
-
-Centralized volunteer operations, approvals, reporting, and AI-assisted knowledge retrieval. <a href="https://github.com/Debb1ie/DEVCON-Kids-Hub-2.0"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="14" alt="GitHub" /> Repository</a> · <a href="https://devcon-kids-hub-2-0.vercel.app/"><img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="14" alt="Vercel" /> Live system</a>
-
-### Bulldogs Xchange · campus marketplace
-
-Reservations, inventory, authentication, administrative workflows, and AI assistance in one campus workflow. <a href="https://github.com/sinagdevv/bulldogs-xchange"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="14" alt="GitHub" /> Repository</a> · <a href="https://bulldogs-xchange-live-demo.vercel.app/"><img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="14" alt="Vercel" /> Live demo</a>
-
-<p align="center"><sub>SINAG /si·nag/ · a ray of light</sub></p>
