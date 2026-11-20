@@ -1,24 +1,24 @@
 {
   "status": "ok",
   "username": "sinagdevv",
-  "syncedAt": "2026-11-19T13:25:22.351Z",
+  "syncedAt": "2026-11-20T13:05:34.816Z",
   "publicRepositoryCount": 113,
   "repositories": [
+    {
+      "name": "sinagdevv",
+      "description": "",
+      "url": "https://github.com/sinagdevv/sinagdevv",
+      "updatedAt": "2026-11-19T13:25:23Z",
+      "language": "PowerShell",
+      "stars": 0,
+      "forks": 0
+    },
     {
       "name": "betterBulldogs",
       "description": "",
       "url": "https://github.com/sinagdevv/betterBulldogs",
       "updatedAt": "2026-11-19T11:15:34Z",
       "language": null,
-      "stars": 0,
-      "forks": 0
-    },
-    {
-      "name": "sinagdevv",
-      "description": "",
-      "url": "https://github.com/sinagdevv/sinagdevv",
-      "updatedAt": "2026-11-18T13:10:36Z",
-      "language": "PowerShell",
       "stars": 0,
       "forks": 0
     },
