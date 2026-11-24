@@ -29,6 +29,6 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/github-public.json assets/generated/activity.svg site/public/activity.svg
+          git add data/github-public.json assets/generated/activity.svg assets/generated/footprints.svg site/public/activity.svg
           git diff --cached --quiet || git commit -m 'chore: sync public profile data'
           git push

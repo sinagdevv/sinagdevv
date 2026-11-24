@@ -1,104 +1,90 @@
-<div align="center">
+<h1 align="center"><img src="./assets/banners/hero.svg" width="100%" alt="John Ray Cacananta — SINAG. Forging intelligence. Guarding the unseen. A cloaked wanderer stands before a black eclipse." /></h1>
 
-<img src="./assets/banner.svg" width="100%" alt="John Ray Cacananta — synthetic systems online"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jrcacananta/"><img src="./assets/seals/linkedin.svg" width="190" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:johnray.cacananta@gmail.com"><img src="./assets/seals/email.svg" width="190" alt="Email" /></a>&nbsp;
+  <a href="https://github.com/sinagdevv"><img src="./assets/seals/github.svg" width="190" alt="GitHub" /></a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=F5C542&center=true&vCenter=true&width=720&lines=Rebuilding+myself+one+commit+at+a+time;Securing+AI+agents+with+intent-based+policy;Shipping+full-stack+apps+on+Next.js+%2B+Supabase;Automating+the+boring+with+n8n+and+MCP" alt="Typing intro"/>
+<p align="center"><img src="./assets/dividers/divider.svg" width="100%" alt="" /></p>
 
-<a href="https://www.linkedin.com/in/jrcacananta/"><img src="https://img.shields.io/badge/LinkedIn-14060A?style=for-the-badge&logo=linkedin&logoColor=F5C542" alt="LinkedIn"/></a>
-<a href="mailto:johnray.cacananta@gmail.com"><img src="https://img.shields.io/badge/Email-14060A?style=for-the-badge&logo=gmail&logoColor=F5C542" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=sinagdevv&style=for-the-badge&color=C1121F&label=SIGNALS+RECEIVED" alt="Profile views"/>
+<h2 align="center"><img src="./assets/headers/wanderer.svg" width="100%" alt="The Wanderer — About Me" /></h2>
 
-</div>
+<p align="center">
+  <strong>John Ray Cacananta</strong> — Full-Stack Developer · AI Security · Cloud · Automation<br />
+  Quezon City, Philippines
+</p>
 
-<img src="./assets/divider.svg" width="100%"/>
+<p align="center"><em>An agent should know what it's allowed to do before it does it.</em></p>
 
-## `> whoami`
+<h2 align="center"><img src="./assets/headers/oath.svg" width="100%" alt="The Oath — Current Focus" /></h2>
 
-```yaml
-designation:  John Ray Cacananta
-class:        Full-Stack Developer // AI Security // Cloud // Automation
-base:         Quezon City, Philippines
-core_belief:  an agent should know what it's allowed to do before it does it
-```
+- **AI agent security** — intent-based authorization, OPA/Rego, audit trails
+- **Model Context Protocol** — wiring agents to tools safely
+- **Full-stack builds** — Next.js · React · TypeScript · Supabase
+- **Local-first AI** — Ollama, RAG, vector search
+- **Automation** — n8n workflows, webhooks, agent orchestration
 
-## `> current_focus`
+<p align="center"><img src="./assets/dividers/divider.svg" width="100%" alt="" /></p>
 
-```diff
-+ AI agent security      intent-based authorization, OPA/Rego, audit trails
-+ Model Context Protocol wiring agents to tools safely
-+ Full-stack builds      Next.js · React · TypeScript · Supabase
-+ Local-first AI         Ollama, RAG, vector search
-+ Automation             n8n workflows, webhooks, agent orchestration
-```
+<h2 align="center"><img src="./assets/headers/arsenal.svg" width="100%" alt="The Arsenal — Technology Stack" /></h2>
 
-<img src="./assets/divider.svg" width="100%"/>
+<p align="center"><img src="./assets/animations/arsenal.svg" width="720" alt="Languages: Python, Java, JavaScript, TypeScript, Bash, PowerShell, HTML, CSS. Frontend: React, Next.js, Vite, Tailwind, Bootstrap, Three.js. Backend: FastAPI, Node.js, Express, Supabase, Firebase. Databases: PostgreSQL, MySQL, SQLite. AI and ML: PyTorch, scikit-learn, NumPy, Pandas, Ollama, RAG with pgvector, Hugging Face. AI agents and security: MCP, OPA and Rego, intent-based authorization, audit logging, Kali Linux. Cloud and DevOps: AWS, Azure, Vercel, Docker, Linux, Ubuntu, Debian, Git, GitHub, GitLab. Automation: n8n, UiPath, Power Automate, Google Apps Script, Webhooks. Tools: VS Code, IntelliJ IDEA, Postman, Claude Code, Codex, Power BI." /></p>
 
-## `> loaded_modules`
+<h2 align="center"><img src="./assets/headers/relics.svg" width="100%" alt="The Relics — Featured Projects" /></h2>
 
-<div align="center">
+<p align="center">
+  <a href="https://devcon-kids-hub-2-0.vercel.app/"><img src="./assets/relics/0.svg" width="100%" alt="DEVCON Kids Hub 2.0 — Team lead, backend developer" /></a><br />
+  A centralized operations platform for volunteer management, approvals, reporting, and AI-assisted knowledge retrieval.<br />
+  <a href="https://github.com/Debb1ie/DEVCON-Kids-Hub-2.0">Repository</a> · <a href="https://devcon-kids-hub-2-0.vercel.app/">Live system</a>
+</p>
 
-#### 🧬 Languages
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,bash,powershell,html,css&theme=dark" alt="Languages"/>
+<p align="center">
+  <a href="https://cage-agent-security.vercel.app/"><img src="./assets/relics/1.svg" width="100%" alt="C.A.G.E. — AI security framework" /></a><br />
+  Causal Authorization and Governance Engine for AI agents, policy enforcement, and MCP security testing.<br />
+  <a href="https://cage-agent-security.vercel.app/">Showcase</a>
+</p>
 
-#### 🖥️ Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,threejs&theme=dark" alt="Frontend"/>
+<p align="center">
+  <a href="https://bulldogs-xchange-live-demo.vercel.app/"><img src="./assets/relics/2.svg" width="100%" alt="Bulldogs Xchange — Full-stack developer" /></a><br />
+  A campus marketplace with reservations, inventory management, authentication, admin workflows, and AI assistance.<br />
+  <a href="https://github.com/sinagdevv/bulldogs-xchange">Repository</a> · <a href="https://bulldogs-xchange-live-demo.vercel.app/">Live demo</a>
+</p>
 
-#### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,supabase,firebase&theme=dark" alt="Backend"/>
+<p align="center">
+  <a href="https://mat-ah-showcase.vercel.app/"><img src="./assets/relics/3.svg" width="100%" alt="MAT-AH — Local-first systems work" /></a><br />
+  An AI-powered file intelligence and knowledge retrieval system designed around local-first workflows.<br />
+  <a href="https://github.com/Gabi-comm/MAT-AH">Repository</a> · <a href="https://mat-ah-showcase.vercel.app/">Showcase</a>
+</p>
 
-#### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="Databases"/>
+<p align="center">
+  <a href="https://tripwise-sooty.vercel.app/"><img src="./assets/relics/4.svg" width="100%" alt="TripWise — Decision-support systems" /></a><br />
+  Fishermen safety and economic decision support with weather intelligence, risk assessment, and interactive maps.<br />
+  <a href="https://github.com/Alvin187187/TripWise">Repository</a> · <a href="https://tripwise-sooty.vercel.app/">Live system</a>
+</p>
 
-#### 🧠 AI / ML
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" alt="AI and ML"/><br/>
-<img src="https://img.shields.io/badge/NumPy-14060A?style=for-the-badge&logo=numpy&logoColor=2FBF71"/>
-<img src="https://img.shields.io/badge/Pandas-14060A?style=for-the-badge&logo=pandas&logoColor=2FBF71"/>
-<img src="https://img.shields.io/badge/Ollama-14060A?style=for-the-badge&logo=ollama&logoColor=2FBF71"/>
-<img src="https://img.shields.io/badge/RAG_%2B_pgvector-14060A?style=for-the-badge&logo=postgresql&logoColor=2FBF71"/>
-<img src="https://img.shields.io/badge/Hugging_Face-14060A?style=for-the-badge&logo=huggingface&logoColor=2FBF71"/>
+<p align="center">
+  <a href="https://mantika-check.vercel.app/"><img src="./assets/relics/5.svg" width="100%" alt="Mantika Check — Explainable ML product" /></a><br />
+  Cooking-oil quality monitoring using explainable decision logic and mathematical degradation models.<br />
+  <a href="https://github.com/Gabi-comm/mantika-check">Repository</a> · <a href="https://mantika-check.vercel.app/">Live system</a>
+</p>
 
-#### 🛡️ AI Agents & Security
-<img src="https://img.shields.io/badge/MCP-14060A?style=for-the-badge&logo=modelcontextprotocol&logoColor=C1121F"/>
-<img src="https://img.shields.io/badge/OPA_%2F_Rego-14060A?style=for-the-badge&logo=openpolicyagent&logoColor=C1121F"/>
-<img src="https://img.shields.io/badge/Intent--Based_AuthZ-14060A?style=for-the-badge&logo=letsencrypt&logoColor=C1121F"/>
-<img src="https://img.shields.io/badge/Audit_Logging-14060A?style=for-the-badge&logo=databricks&logoColor=C1121F"/>
-<img src="https://img.shields.io/badge/Kali_Linux-14060A?style=for-the-badge&logo=kalilinux&logoColor=C1121F"/>
+<p align="center"><img src="./assets/dividers/divider.svg" width="100%" alt="" /></p>
 
-#### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,azure,vercel,docker,linux,ubuntu,debian,git,github,gitlab&theme=dark" alt="Cloud and DevOps"/>
+<h2 align="center"><img src="./assets/headers/chronicle.svg" width="100%" alt="The Chronicle — GitHub Statistics" /></h2>
 
-#### 🔁 Automation
-<img src="https://img.shields.io/badge/n8n-14060A?style=for-the-badge&logo=n8n&logoColor=F5C542"/>
-<img src="https://img.shields.io/badge/UiPath-14060A?style=for-the-badge&logo=uipath&logoColor=F5C542"/>
-<img src="https://img.shields.io/badge/Power_Automate-14060A?style=for-the-badge&logoColor=F5C542"/>
-<img src="https://img.shields.io/badge/Google_Apps_Script-14060A?style=for-the-badge&logo=googleappsscript&logoColor=F5C542"/>
-<img src="https://img.shields.io/badge/Webhooks-14060A?style=for-the-badge&logo=webauthn&logoColor=F5C542"/>
+<p align="center"><img src="./assets/generated/activity.svg" width="100%" alt="Public GitHub chronicle: public repository count, most recently pushed repositories, and language composition by repository." /></p>
 
-#### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=vscode,idea,postman&theme=dark" alt="Tools"/><br/>
-<img src="https://img.shields.io/badge/Claude_Code-14060A?style=for-the-badge&logo=claude&logoColor=EDE6DA"/>
-<img src="https://img.shields.io/badge/Codex-14060A?style=for-the-badge&logo=openai&logoColor=EDE6DA"/>
-<img src="https://img.shields.io/badge/Power_BI-14060A?style=for-the-badge&logoColor=EDE6DA"/>
+<h2 align="center"><img src="./assets/headers/footprints.svg" width="100%" alt="The Footprints — Contribution Activity" /></h2>
 
-</div>
+<p align="center"><img src="./assets/generated/footprints.svg" width="100%" alt="Monochrome contribution calendar for the last year with total contributions, longest streak, and current streak." /></p>
 
-<img src="./assets/divider.svg" width="100%"/>
+<h2 align="center"><img src="./assets/headers/veil.svg" width="100%" alt="Beyond the Veil — Contact and Social Links" /></h2>
 
-## `> telemetry`
+<p align="center">
+  <a href="https://www.linkedin.com/in/jrcacananta/"><img src="./assets/seals/linkedin.svg" width="190" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:johnray.cacananta@gmail.com"><img src="./assets/seals/email.svg" width="190" alt="Email" /></a>&nbsp;
+  <a href="https://github.com/sinagdevv"><img src="./assets/seals/github.svg" width="190" alt="GitHub" /></a>
+</p>
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sinagdevv&show_icons=true&hide_border=true&bg_color=14060A&title_color=F5C542&icon_color=2FBF71&text_color=EDE6DA&ring_color=C1121F" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinagdevv&layout=compact&hide_border=true&bg_color=14060A&title_color=F5C542&text_color=EDE6DA" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com?user=sinagdevv&hide_border=true&background=14060A&ring=C1121F&fire=F5C542&currStreakLabel=F5C542&sideLabels=EDE6DA&currStreakNum=EDE6DA&sideNums=EDE6DA&dates=2FBF71&stroke=2FBF71" alt="Streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sinagdevv&bg_color=14060A&color=EDE6DA&line=C1121F&point=F5C542&area=true&area_color=2FBF71&hide_border=true" width="100%" alt="Activity graph"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C1121F,50:14060A,100:2FBF71&height=120&section=footer&text=end%20of%20transmission&fontSize=18&fontColor=F5C542&fontAlignY=72" width="100%"/>
-
-</div>
+<p align="center"><img src="./assets/banners/footer.svg" width="100%" alt="Forging intelligence. Guarding the unseen. Here ends the codex." /></p>
