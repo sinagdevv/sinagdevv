@@ -1,9 +1,18 @@
 {
   "status": "ok",
   "username": "sinagdevv",
-  "syncedAt": "2026-11-24T18:11:00.746Z",
+  "syncedAt": "2026-11-24T18:16:33.740Z",
   "publicRepositoryCount": 115,
   "repositories": [
+    {
+      "name": "sinagdevv",
+      "description": "",
+      "url": "https://github.com/sinagdevv/sinagdevv",
+      "updatedAt": "2026-11-24T18:11:56Z",
+      "language": "PowerShell",
+      "stars": 0,
+      "forks": 0
+    },
     {
       "name": "tabRaid",
       "description": "A dark fantasy pixel-art browser game that turns tab management into gesture-controlled monster hunting.",
@@ -19,15 +28,6 @@
       "url": "https://github.com/sinagdevv/EventInformationWebsite",
       "updatedAt": "2026-11-23T03:25:13Z",
       "language": "HTML",
-      "stars": 0,
-      "forks": 0
-    },
-    {
-      "name": "sinagdevv",
-      "description": "",
-      "url": "https://github.com/sinagdevv/sinagdevv",
-      "updatedAt": "2026-11-20T18:28:04Z",
-      "language": "PowerShell",
       "stars": 0,
       "forks": 0
     },
