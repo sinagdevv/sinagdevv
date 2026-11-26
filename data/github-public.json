@@ -1,14 +1,14 @@
 {
   "status": "ok",
   "username": "sinagdevv",
-  "syncedAt": "2026-11-25T14:32:43.944Z",
+  "syncedAt": "2026-11-26T13:59:13.530Z",
   "publicRepositoryCount": 115,
   "repositories": [
     {
-      "name": "tabRaid",
+      "name": "TABWRAITH",
       "description": "A dark fantasy pixel-art browser game that turns tab management into gesture-controlled monster hunting.",
-      "url": "https://github.com/sinagdevv/tabRaid",
-      "updatedAt": "2026-11-24T18:41:22Z",
+      "url": "https://github.com/sinagdevv/TABWRAITH",
+      "updatedAt": "2026-11-25T14:33:43Z",
       "language": "TypeScript",
       "stars": 0,
       "forks": 0
@@ -17,7 +17,7 @@
       "name": "sinagdevv",
       "description": "",
       "url": "https://github.com/sinagdevv/sinagdevv",
-      "updatedAt": "2026-11-24T18:16:59Z",
+      "updatedAt": "2026-11-25T14:32:45Z",
       "language": "PowerShell",
       "stars": 0,
       "forks": 0
